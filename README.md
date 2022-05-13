@@ -15,8 +15,8 @@ Steps to install:
 ![image](https://user-images.githubusercontent.com/105522941/168394078-af55a3bd-e0f0-4879-8ed8-d3c77be177d2.png)
 
 
-3. Find the folder where the preset is and then select the json file called "Smooth_Multi_4"
-4. Now that it's imported you want to select the preset by hitting Scene Collection --> Smooth Multi 4
+3. Find the folder where the preset is and then select the json file called "Smooth_Multi"
+4. Now that it's imported you want to select the preset by hitting Scene Collection --> Smooth Multi
 
 ![image](https://user-images.githubusercontent.com/105522941/168394885-f6182780-5901-415f-9485-05c5dc5eedcd.png)
 
