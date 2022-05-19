@@ -1,11 +1,13 @@
 # Smooth-Wall/Multi-Instance-OBS-Preset
-Made by argo#6969 :)
+Made by argo#6969 and ChezBruhger#5969 :)
+
+[Setup Video](https://www.youtube.com/watch?v=qfa1HlNF62Y)
 
 IMPORTANT:
-Install this transition plugin or it WILL NOT WORK: https://obsproject.com/forum/resources/move-transition.913/
+Install [Source Record Plugin](https://obsproject.com/forum/resources/source-record.1285/) or open 2 obs instances, these presets weren't made for one obs. Instead go to [One Obs Presets](https://github.com/ChezBruhger/Wall-OBS-Presets-No-Source-Record) (currently WIP but it'll be finished eventually)
 
-I have also added an option for game capture or window capture depending on what you like :).
-If you play on windowed and you have black bars at the bottom just hit Ctrl + E and change the scale to 1920 by 1080 or whatever you sceen resolution is.
+Install [Move Transition Plugin](https://obsproject.com/forum/resources/move-transition.913/) or smooth animations WILL NOT WORK.
+You can use this without smooth transition plugin if you prefer a default obs transition like slide. 
 
 Steps to install:
 1. Download the zip and extract it using whatever software you have
@@ -21,3 +23,5 @@ Steps to install:
 ![image](https://user-images.githubusercontent.com/105522941/168394885-f6182780-5901-415f-9485-05c5dc5eedcd.png)
 
 5. You're done!
+
+Dm argo#6969 or ChezBruhger#5969 on discord to report issues or for help :)
