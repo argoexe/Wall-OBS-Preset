@@ -24,4 +24,4 @@ Steps to install:
 
 5. You're done!
 
-Dm argo#6969 or ChezBruhger#5969 on discord to report issues or for help :)
+Dm argo#5927 or ChezBruhger#5969 on discord to report issues or for help :)
