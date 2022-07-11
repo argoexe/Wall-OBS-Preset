@@ -6,6 +6,8 @@ Made by argo#6969 and ChezBruhger#5969 :)
 IMPORTANT:
 Install [Source Record Plugin](https://obsproject.com/forum/resources/source-record.1285/) or open 2 obs instances, these presets weren't made for one obs. Instead go to [One Obs Presets](https://github.com/ChezBruhger/Wall-OBS-Presets-No-Source-Record) (currently WIP but it'll be finished eventually)
 
+IMPORTANT NOTE: You need to change the video path for the source record filter, otherwise it won't work. The setup video will show how to do this. 
+
 Install [Move Transition Plugin](https://obsproject.com/forum/resources/move-transition.913/) or smooth animations WILL NOT WORK.
 You can use this without smooth transition plugin if you prefer a default obs transition like slide. 
 
