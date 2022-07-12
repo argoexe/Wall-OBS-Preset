@@ -1,7 +1,7 @@
 # Smooth-Wall/Multi-Instance-OBS-Preset
 Made by argo#6969 and ChezBruhger#5969 :)
 
-[Setup Video](https://www.youtube.com/watch?v=qfa1HlNF62Y)
+[Setup Video](https://www.youtube.com/watch?v=eUqVX2_0uAE)
 
 IMPORTANT:
 Install [Source Record Plugin](https://obsproject.com/forum/resources/source-record.1285/) or open 2 obs instances, these presets weren't made for one obs. Instead go to [One Obs Presets](https://github.com/ChezBruhger/Wall-OBS-Presets-No-Source-Record) (currently WIP but it'll be finished eventually)
