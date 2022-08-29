@@ -1,4 +1,4 @@
-# Smooth-Wall/Multi-Instance-OBS-Preset
+# Wall-OBS-Preset
 Made by argo#6969 and ChezBruhger#5969 :)
 
 [Setup Video](https://www.youtube.com/watch?v=eUqVX2_0uAE)
@@ -12,7 +12,10 @@ Install [Source Record Plugin](https://obsproject.com/forum/resources/source-rec
 - "no_source_record" means you don't need to use the source record plugin, if it's not on the file name, then source record plugin is required.
 - "fullscreen" means the preset is meant for fullscreen users, if it's not on the file name, it's meant for borderless/windowed users.
 - If there's none of those on the file name, it's a preset for borderless/windowed and requires source record plugin.
-- Lock indicators coming soon-ish
+
+**Work in Progress**
+- Lock indicators
+- Higher instance count presets
 
 Install [Move Transition Plugin](https://obsproject.com/forum/resources/move-transition.913/) or smooth animations WILL NOT WORK.
 You can use this without smooth transition plugin if you prefer a default obs transition like slide. 
@@ -25,8 +28,8 @@ Steps to install:
 ![image](https://user-images.githubusercontent.com/105522941/168394078-af55a3bd-e0f0-4879-8ed8-d3c77be177d2.png)
 
 
-3. Find the folder where the preset is and then select the json file called "Smooth_Multi"
-4. Now that it's imported you want to select the preset by hitting Scene Collection --> Smooth Multi
+3. Find the folder where the preset is and then select the json file that you downloaded
+4. Now that it's imported you want to select the preset by hitting Scene Collection --> (instance count) inst multiwall 
 
 ![image](https://user-images.githubusercontent.com/105522941/168394885-f6182780-5901-415f-9485-05c5dc5eedcd.png)
 
