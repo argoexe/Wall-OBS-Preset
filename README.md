@@ -2,6 +2,7 @@
 Made by argo#6969 and ChezBruhger#5969 :)
 
 [Setup Video](https://www.youtube.com/watch?v=eUqVX2_0uAE)
+
 [Wall Setup Video](https://www.youtube.com/watch?v=0xAHMW93MQw)
 (OUTDATED BUT STILL HAS BASIC OBS SETUP)
 **IMPORTANT:**
