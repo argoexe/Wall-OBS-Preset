@@ -13,15 +13,12 @@ Install [Source Record Plugin](https://obsproject.com/forum/resources/source-rec
 - "fullscreen" means the preset is meant for fullscreen users, if it's not on the file name, it's meant for borderless/windowed users.
 - If there's none of those on the file name, it's a preset for borderless/windowed and requires source record plugin.
 
-**Work in Progress**
+**Planning to add**
 - Lock indicators
 - Higher instance count presets
 
-Install [Move Transition Plugin](https://obsproject.com/forum/resources/move-transition.913/) or smooth animations WILL NOT WORK.
-You can use this without smooth transition plugin if you prefer a default obs transition like slide. 
-
 Steps to install:
-1. Download the zip and extract it using whatever software you have
+1. Download the .json file for whatever instance count you have + no source record/fullscreen etc.
 2. Go to OBS and then click Scene Collection --> Import --> 3 dots
 
 ![image](https://user-images.githubusercontent.com/105522941/168393988-bfce4d77-5e16-495a-8472-56d2b643e237.png)
@@ -29,7 +26,7 @@ Steps to install:
 
 
 3. Find the folder where the preset is and then select the json file that you downloaded
-4. Now that it's imported you want to select the preset by hitting Scene Collection --> (instance count) inst multiwall 
+4. Now that it's imported you want to select the preset by hitting Scene Collection --> (inst count) inst multiwall 
 
 ![image](https://user-images.githubusercontent.com/105522941/168394885-f6182780-5901-415f-9485-05c5dc5eedcd.png)
 
