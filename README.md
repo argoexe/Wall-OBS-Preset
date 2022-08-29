@@ -3,12 +3,12 @@ Made by argo#6969 and ChezBruhger#5969 :)
 
 [Setup Video](https://www.youtube.com/watch?v=eUqVX2_0uAE)
 
-IMPORTANT:
+**IMPORTANT:**
 Install [Source Record Plugin](https://obsproject.com/forum/resources/source-record.1285/) or open 2 obs instances if you want to use the source record presets, otherwise it won't be verifiable. 
 
-IMPORTANT NOTE: You need to change the video path for the source record filter, otherwise it won't work. The setup video will show how to do this. 
+**IMPORTANT NOTE: You need to change the video path for the source record filter, otherwise it won't work. The setup video will show how to do this.** 
 
-Pay Attention to the Naming:
+**Pay Attention to the Naming:**
 - "no_source_record" means you don't need to use the source record plugin, if it's not on the file name, then source record plugin is required.
 - "fullscreen" means the preset is meant for fullscreen users, if it's not on the file name, it's meant for borderless/windowed users.
 - If there's none of those on the file name, it's a preset for borderless/windowed and requires source record plugin.
